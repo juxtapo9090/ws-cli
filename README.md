@@ -44,7 +44,7 @@ Use the exact chat name as shown in `ws get`:
 
 ```bash
 ws send "PERSONAL WORK" "meeting at 3pm"
-ws read "Lisa medianet"
+ws read "Juan Pablo"
 ```
 
 ## Gotchas
